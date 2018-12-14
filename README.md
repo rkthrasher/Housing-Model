@@ -1,6 +1,6 @@
 # Housing-Model
 
-  This is a draft of Jupyter notebook working on a knowlege based competition hosted by [Kaggle](https://www.kaggle.com)
+  This is a draft of a Jupyter notebook working on a knowlege based competition hosted by [Kaggle](https://www.kaggle.com)
 pridict housing prices based of a number numerical and categorical features. I walk through some the exploratory data anlysis 
 (EDA) used to make decisions on feature transformations, imputation, and deletion using a combination of statistical and 
 graphical techniques. 

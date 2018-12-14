@@ -10,4 +10,5 @@ The goal was to pridict housing prices based of a number numerical and categoric
     - Ridge (L2 penalized linear regressor)
     - Elastic Net (combo of L1 and L2 penalized regressor)
   - Gradient Boosting Regressor 
+
 I then created a custom ensemble regression model which averaged the price predictions of each model to attain a model which then outperformed any sub-model. As a result I obtained a result which placed me in the top 7% of kaggle competitors for this competition.
